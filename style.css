@@ -1,0 +1,71 @@
+body{
+    background-color:white;
+    font-family:Arial, sans-serif;
+    margin:0;
+}
+
+/* Header */
+header{
+    background-color:#ffb6c1;
+    padding:20px;
+    text-align:center;
+}
+
+/* Intro (foto + biography) */
+.intro{
+    display:flex;
+    align-items:flex-start;
+    margin:20px;
+}
+
+/* Foto profile */
+.Profile img{
+    width:130px;
+    height:auto;
+    border-radius:10px;
+}
+
+/* Biography */
+.bio{
+    margin-left:20px;
+    max-width:500px;
+}
+
+/* Section umum */
+section{
+    margin:20px;
+}
+
+/* Skills box */
+.skills-box{
+    background-color:#ffe4e1;
+    padding:15px;
+    border-radius:8px;
+    width:fit-content;
+}
+
+/* Experience box */
+.experience-box{
+    background-color:#ffe4e1;
+    padding:15px;
+    border-radius:8px;
+    width:fit-content;
+}
+
+/* List */
+ul{
+    padding-left:20px;
+}
+
+/* Photography gallery */
+.photo-gallery{
+    margin:20px;
+}
+
+/* Foto fotografi */
+.photo-gallery img{
+    width:200px;
+    height:auto;
+    margin:10px;
+    border-radius:8px;
+}
